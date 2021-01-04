@@ -33,7 +33,7 @@ export default {
       // can be one of 'email' or 'phone_number_sms'
       identifierType: "phone_number_sms",
       // Add the API key
-      apiKey: "333a29a7-837c-4732-b2f4-ed4389c1ebd6",
+      apiKey: "",
       // Add a callback here to handle the payload sent by sdk
       onSuccess: (payload) => {
         this.userPayload = payload;
