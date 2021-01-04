@@ -46,7 +46,7 @@ let sawo = new Sawo(<configuration>)
 ```
 
 **Call the showForm method**
-***"showForm"*** method is reponsible to render the form in the given container.
+* ***"showForm"*** method is reponsible to render the form in the given container.
 ```
 sawo.showForm()
 ```
@@ -55,9 +55,9 @@ After successful setup of Sawo sdk, a login form will rendered in the provided c
 ![Login Form](https://lh3.googleusercontent.com/fife/ABSRlIpAptzt-JsV6x1TGLRzFx9t4164a2b-p5x7-zBKQrDwpGQcMIbAwm3rwrvSAEZdqJqrhQgfXuw-AHS5CBhkpEoGDE513mV3mpUS_goJzH-nSGqNjPFsymG_q6F2buvN8k8853FxxSn1tyn3o4Kr_O_cSEzHvs3ljm13fzFgz5tJ0gPnJzY9XBDCMmHB8z4PuMsw0uwdPUbm4poTm7JfaBb9IthEVPyjvJxBp9whl8ucTq-NGsIZUGGyolGfdC4k0Ki15Ht-9sV9-zI6iEdifo_rlU9Up-vGyYADPzWm0hB8ejuXL1FkOIzlITQ76WByVic5Tb0virAawTQSnIHWXIUQtX3s6XGIRm4Ol0HasVn8RHbEDyCLtzys6mRfKAx5uKPEnXNIGsbvqAWCshnjrRHpL2ERrqWi0co7p8asRjoKMtjE1K46Vo_ZUbKk-EH8u1HCTjqMJQCkmf7naIplrh4JTWNUky_cMv0YalCbrZVe2t-Vrwv2RfB1g5aRT4zsrfhIdcLFX6jiqbBfc6HOgiapHmR2F1eyviVgEnfYr-uNjTTH4btCB1-p8gyz3nPUdZFEpK-n7iaB1dWxcvWlh5mx2RXpiOT4i7zFu_4B6Qul5qRr8o5d7t2r4gym5LFEBJEUxr39syXaRv82hsSaaMcN_AWAlDxuVhjRqR6kVtAHEaqj9deTravS_KWJQBNRJYLGirfmvHYu_vQbJQDj4JdmS165iqpZ8g=-p-k-nu-ft)
 
 ## Project demo links
- * **[React](https://github.com/sawolab/sawo-examples/react)**
- * **[Angular](https://github.com/sawolab/sawo-examples/angular)**
- * **[VUE](https://github.com/sawolab/sawo-examples/vue)**
+ * **[React](https://github.com/sawolab/sawo-examples/tree/master/react)**
+ * **[Angular](https://github.com/sawolab/sawo-examples/tree/master/angular)**
+ * **[VUE](https://github.com/sawolab/sawo-examples/tree/master/vue)**
     
 ## Versioning
 
